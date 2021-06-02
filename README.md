@@ -41,6 +41,11 @@ yarn start
 yarn test
 ```
 
+## Branches
+
+- Code Splitting on `main`
+- Asynchronous Loading on `codeSplitting3`
+  
 ## Author
 
 👤 **Juan Perez Jr**
