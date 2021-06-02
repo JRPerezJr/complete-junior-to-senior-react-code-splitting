@@ -18,30 +18,36 @@
 
 ### 🏠 [Homepage](https://github.com/JRPerezJr/complete-junior-to-senior-react-code-splitting)
 
-## Prerequisites
+## 📐 Prerequisites
 
 - node 14.17.0
 - npm 6.14.13
 
-## Install
+## 🛠 Install
 
 ```sh
 yarn
 ```
 
-## Usage
+## 💻 Usage
 
 ```sh
 yarn start
 ```
 
-## Run tests
+## Run 🧪 tests
 
 ```sh
 yarn test
 ```
 
-## Branches
+## Run 🔨 build 📦
+
+```sh
+yarn build
+```
+
+## 🌳 Branches
 
 - Code Splitting on `main`
 - Asynchronous Loading on `codeSplitting3`
